@@ -18,7 +18,7 @@ I am currently majoring in Computer Science at Hoseo University and am intereste
 ## 🏆 Activities
 - (주) 에드원 - [서울하수도과학관 방문용 키오스크 및 관리프로그램](https://github.com/Kiosk-Ticketing-System) 개발
 - 2021 공개 SW 개발자 대회 - [UOS(Untact Order Service)](https://github.com/UOS2021) 프로젝트로 알티베이스 기업상 수상
-- (주) 영진 - 차량번호인식 테스트 프로그램 및 테스트 결과 관리 Windows 응용프로그램 개발 
+- 통신공사 영진 - 차량번호인식 테스트 프로그램 및 테스트 결과 관리 Windows 응용프로그램 개발 
 - (주) 가산 - 불법주정차 차량 영치용 안드로이드 앱 개발
 
 <br>
