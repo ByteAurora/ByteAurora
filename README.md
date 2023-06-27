@@ -4,7 +4,7 @@ I am currently majoring in Computer Science at Hoseo University and am intereste
 <br>
 
 ## 👨‍💻 About Me
-- Majoring in Computer Engineering
+- Majoring in Computer Science
 - Experienced with various languages, currently working on a project in Kotlin
 - Driven by the process of development, aspiring to create diverse services and systems across multiple fields
 
@@ -25,7 +25,7 @@ I am currently majoring in Computer Science at Hoseo University and am intereste
 
 ## 🚀 Current Projects
 ### 🎮 CodeXP
-CodeXP is a Intellij IDE plugin to enhance the coding experience. (Released on [Jetbrains Marketplace](https://plugins.jetbrains.com/plugin/21896-codexp))
+CodeXP is an Intellij IDE plugin to enhance the coding experience. (Released on [Jetbrains Marketplace](https://plugins.jetbrains.com/plugin/21896-codexp))
 
 ![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF&label=) ![Jetbrains IDE Framework](https://img.shields.io/badge/Jetbrains&nbsp;IDE&nbsp;Framework-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
   
@@ -69,7 +69,7 @@ LMS Reminder is a mobile application that provides notifications for videos, ass
 <br>
 
 ### 🚢 GBTW Reminder
-GBTW Reminder is a service to quickly check the update progress of the Gunship Battle game on mobile.
+GBTW Reminder is a service that allows you to quickly check the update progress of the Gunship Battle game on mobile.
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase Cloud Messaging](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
