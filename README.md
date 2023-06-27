@@ -11,7 +11,7 @@ I am currently majoring in Computer Science at Hoseo University and am intereste
 <br>
 
 ## 🔭 Current Interests
-IDE Plugin, ChatGPT
+![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF&label=)  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 <br>
 
@@ -24,26 +24,69 @@ IDE Plugin, ChatGPT
 <br>
 
 ## 🚀 Current Projects
-- IntelliJ plugin CodeXP on JetBrains IDE to enhance the coding experience [CodeXP](https://github.com/ILoveGameCoding/intellij-codexp) (Released on [Jetbrains Marketplace](https://plugins.jetbrains.com/plugin/21896-codexp))
+### 🎮 CodeXP
+CodeXP is a Intellij IDE plugin to enhance the coding experience. (Released on [Jetbrains Marketplace](https://plugins.jetbrains.com/plugin/21896-codexp))
+
+![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF&label=) ![Jetbrains IDE Framework](https://img.shields.io/badge/Jetbrains&nbsp;IDE&nbsp;Framework-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ILoveGameCoding&repo=intellij-codexp)](https://github.com/ILoveGameCoding/intellij-codexp)
 
-- Android app [PaeParo](https://github.com/PaeParo) to assist in easily organizing travel plans
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ILoveGameCoding&repo=PaeParo-Mobile)](https://github.com/ILoveGameCoding/PaeParo-Mobile)
+<br>
 
-- Turn-based card board web game [BBONG](https://github.com/westofsky/BBNG)
+### ✈️ PaeParo
+PaeParo is a android application to assist in easily organizing travel plans. Developed with android, kotlin and firebase services.
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF&label=) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ILoveGameCoding&repo=PaeParo-Mobile)](https://github.com/ILoveGameCoding/PaeParo-Mobile)
 
 <br>
 
+### 🎴 BBONG
+[BBONG](https://github.com/westofsky/BBNG) is a turn-based card board web game. Developed with Vue, NodeJS, Express and socket.io.
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+<br>
+
+## 🎓 Academic & 💡 Personal Projects
+### 🎥 Easy Video Editor
+Easy Video Editor is a windows application that provides various video editing features. 
+
+![Qt](https://img.shields.io/static/v1?style=for-the-badge&message=Qt&color=222222&logo=Qt&logoColor=41CD52&label=) ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=) ![OpenCV](https://img.shields.io/static/v1?style=for-the-badge&message=OpenCV&logo=OpenCV&logoColor=FFFFFF&label=)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ILoveGameCoding&repo=EasyVideoEditor)](https://github.com/ILoveGameCoding/EasyVideoEditor)
+
+<br>
+
+### ⏰ LMS Reminder
+LMS Reminder is a mobile application that provides notifications for videos, assignments, and announcements on the LMS. 
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ILoveGameCoding&repo=LMS-Reminder)](https://github.com/ILoveGameCoding/LMS-Reminder)
+
+<br>
+
+### 🚢 GBTW Reminder
+GBTW Reminder is a service to quickly check the update progress of the Gunship Battle game on mobile.
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase Cloud Messaging](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ILoveGameCoding&repo=GBTW-Reminder-Server)](https://github.com/ILoveGameCoding/GBTW-Reminder-Server)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ILoveGameCoding&repo=GBTW-Reminder-Client)](https://github.com/ILoveGameCoding/GBTW-Reminder-Client)
+
+<br>
+  
 ## 💼 Skills
-<img src="https://github-readme-stats.vercel.app/api?username=ILoveGameCoding&show_icons=true&theme=radical" alt="My GitHub stats" width="45%" height="220" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=ILoveGameCoding&show_icons=true&theme=radical" alt="My GitHub stats" />
 
 <br>
 
 **Main Programming Languages**: 
 
-![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&label=)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF&label=)
 
 <br>
@@ -54,7 +97,7 @@ IDE Plugin, ChatGPT
 ![C#](https://img.shields.io/static/v1?style=for-the-badge&message=C+Sharp&color=239120&logo=C+Sharp&logoColor=FFFFFF&label=)
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
 ![Dart](https://img.shields.io/static/v1?style=for-the-badge&message=Dart&color=0175C2&logo=Dart&logoColor=FFFFFF&label=)
-![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 
 <br>
@@ -67,7 +110,9 @@ IDE Plugin, ChatGPT
 ![Android SDK](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=222222&logo=Android&logoColor=3DDC84&label=)
 ![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
 ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
-
+![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&nbsp;Authentication&color=222222&logo=Firebase&logoColor=FFCA28&label=)
+![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&nbsp;Functions&color=222222&logo=Firebase&logoColor=FFCA28&label=)
+![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&nbsp;Cloud&nbsp;Messaging&color=222222&logo=Firebase&logoColor=FFCA28&label=)
 <br>
 
 **Databases**: 
@@ -75,7 +120,8 @@ IDE Plugin, ChatGPT
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 ![MariaDB](https://img.shields.io/static/v1?style=for-the-badge&message=MariaDB&color=003545&logo=MariaDB&logoColor=FFFFFF&label=)
 ![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
-![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
+![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&nbsp;Cloud&nbsp;Firestore&color=222222&logo=Firebase&logoColor=FFCA28&label=)
+![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&nbsp;Storage&color=222222&logo=Firebase&logoColor=FFCA28&label=)
 
 <br>
 
