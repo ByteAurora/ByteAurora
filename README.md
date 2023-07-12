@@ -33,6 +33,15 @@ CodeXP is an Intellij IDE plugin to enhance the coding experience. (Released on 
 
 <br>
 
+### 🎴 BBONG
+[BBONG](https://github.com/westofsky/BBNG) is a turn-based card board web game.
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+<br>
+
+## 🎓 Academic & 💡 Personal Projects
+
 ### ✈️ PaeParo
 PaeParo is a android application to assist in easily organizing travel plans.
 
@@ -42,14 +51,6 @@ PaeParo is a android application to assist in easily organizing travel plans.
 
 <br>
 
-### 🎴 BBONG
-[BBONG](https://github.com/westofsky/BBNG) is a turn-based card board web game.
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-<br>
-
-## 🎓 Academic & 💡 Personal Projects
 ### 🎥 Easy Video Editor
 Easy Video Editor is a windows application that provides various video editing features. 
 
