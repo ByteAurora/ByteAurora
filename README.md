@@ -29,7 +29,7 @@ CodeXP is an Intellij IDE plugin to enhance the coding experience. (Released on 
 
 ![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF&label=) ![Jetbrains IDE Framework](https://img.shields.io/badge/Jetbrains&nbsp;IDE&nbsp;Framework-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ILoveGameCoding&repo=intellij-codexp)](https://github.com/ILoveGameCoding/intellij-codexp)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByteAurora&repo=intellij-codexp)](https://github.com/ByteAurora/intellij-codexp)
 
 <br>
 
@@ -47,7 +47,7 @@ PaeParo is a android application to assist in easily organizing travel plans.
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF&label=) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ILoveGameCoding&repo=PaeParo-Mobile)](https://github.com/ILoveGameCoding/PaeParo-Mobile)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByteAurora&repo=PaeParo-Mobile)](https://github.com/ByteAurora/PaeParo-Mobile)
 
 <br>
 
@@ -56,7 +56,7 @@ Easy Video Editor is a windows application that provides various video editing f
 
 ![Qt](https://img.shields.io/static/v1?style=for-the-badge&message=Qt&color=222222&logo=Qt&logoColor=41CD52&label=) ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=) ![OpenCV](https://img.shields.io/static/v1?style=for-the-badge&message=OpenCV&logo=OpenCV&logoColor=FFFFFF&label=)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ILoveGameCoding&repo=EasyVideoEditor)](https://github.com/ILoveGameCoding/EasyVideoEditor)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByteAurora&repo=EasyVideoEditor)](https://github.com/ByteAurora/EasyVideoEditor)
 
 <br>
 
@@ -65,7 +65,7 @@ LMS Reminder is a mobile application that provides notifications for videos, ass
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ILoveGameCoding&repo=LMS-Reminder)](https://github.com/ILoveGameCoding/LMS-Reminder)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByteAurora&repo=LMS-Reminder)](https://github.com/ByteAurora/LMS-Reminder)
 
 <br>
 
@@ -74,14 +74,14 @@ GBTW Reminder is a service that allows you to quickly check the update progress 
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase Cloud Messaging](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ILoveGameCoding&repo=GBTW-Reminder-Server)](https://github.com/ILoveGameCoding/GBTW-Reminder-Server)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ILoveGameCoding&repo=GBTW-Reminder-Client)](https://github.com/ILoveGameCoding/GBTW-Reminder-Client)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByteAurora&repo=GBTW-Reminder-Server)](https://github.com/ByteAurora/GBTW-Reminder-Server)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByteAurora&repo=GBTW-Reminder-Client)](https://github.com/ByteAurora/GBTW-Reminder-Client)
 
 <br>
   
 ## 💼 Skills
 
-<img src="https://github-readme-stats.vercel.app/api?username=ILoveGameCoding&show_icons=true&theme=radical" alt="My GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ByteAurora&show_icons=true&theme=radical" alt="My GitHub stats" />
 
 <br>
 
