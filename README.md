@@ -104,6 +104,7 @@ GBTW Reminder is a service that allows you to quickly check the update progress 
 <br>
 
 **Services**:
+
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&nbsp;Authentication&color=222222&logo=Firebase&logoColor=FFCA28&label=)
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&nbsp;Functions&color=222222&logo=Firebase&logoColor=FFCA28&label=)
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&nbsp;Cloud&nbsp;Messaging&color=222222&logo=Firebase&logoColor=FFCA28&label=)
