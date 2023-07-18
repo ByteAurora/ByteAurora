@@ -103,6 +103,13 @@ GBTW Reminder is a service that allows you to quickly check the update progress 
 
 <br>
 
+**Services**:
+![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&nbsp;Authentication&color=222222&logo=Firebase&logoColor=FFCA28&label=)
+![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&nbsp;Functions&color=222222&logo=Firebase&logoColor=FFCA28&label=)
+![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&nbsp;Cloud&nbsp;Messaging&color=222222&logo=Firebase&logoColor=FFCA28&label=)
+
+<br>
+
 **Frameworks**: 
 
 ![Qt](https://img.shields.io/static/v1?style=for-the-badge&message=Qt&color=222222&logo=Qt&logoColor=41CD52&label=)
@@ -111,9 +118,6 @@ GBTW Reminder is a service that allows you to quickly check the update progress 
 ![Android SDK](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=222222&logo=Android&logoColor=3DDC84&label=)
 ![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
 ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
-![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&nbsp;Authentication&color=222222&logo=Firebase&logoColor=FFCA28&label=)
-![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&nbsp;Functions&color=222222&logo=Firebase&logoColor=FFCA28&label=)
-![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&nbsp;Cloud&nbsp;Messaging&color=222222&logo=Firebase&logoColor=FFCA28&label=)
 <br>
 
 **Databases**: 
