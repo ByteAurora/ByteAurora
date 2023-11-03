@@ -33,13 +33,6 @@ CodeXP is an Intellij IDE plugin to enhance the coding experience. (Released on 
 
 <br>
 
-### 🎴 BBONG
-[BBONG](https://github.com/westofsky/BBNG) is a turn-based card board web game.
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-<br>
-
 ## 🎓 Academic & 💡 Personal Projects
 
 ### ✈️ PaeParo
@@ -48,6 +41,13 @@ PaeParo is a android application to assist in easily organizing travel plans.
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF&label=) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByteAurora&repo=PaeParo-Mobile)](https://github.com/ByteAurora/PaeParo-Mobile)
+
+<br>
+
+### 🎴 BBONG
+[BBONG](https://github.com/westofsky/BBNG) is a turn-based card board web game.
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 <br>
 
