@@ -5,7 +5,7 @@ I am currently majoring in Computer Science at Hoseo University and am intereste
 
 ## 👨‍💻 About Me
 - Majoring in Computer Science
-- Experienced with various languages, currently working on a project in Kotlin
+- Experiences with various languages, currently working on a project in Kotlin
 - Driven by the process of development, aspiring to create diverse services and systems across multiple fields
 
 <br>
