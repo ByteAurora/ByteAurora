@@ -24,6 +24,15 @@ I am currently majoring in Computer Science at Hoseo University and am intereste
 <br>
 
 ## 🚀 Current Projects
+### 📋 Clipboarder
+Clipboarder is a service that helps synchronize various contents such as text and images across different devices, making it easier to copy and paste.
+
+![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF&label=)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByteAurora&repo=clipboarder-android)](https://github.com/clip-boarder/clipboarder-android)
+
+<br>
+
 ### 🎮 CodeXP
 CodeXP is an Intellij IDE plugin to enhance the coding experience. (Released on [Jetbrains Marketplace](https://plugins.jetbrains.com/plugin/21896-codexp))
 
