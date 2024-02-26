@@ -27,7 +27,7 @@ I am currently majoring in Computer Science at Hoseo University and am intereste
 ### 📋 Clipboarder
 Clipboarder is a service that helps synchronize various contents such as text and images across different devices, making it easier to copy and paste.
 
-![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF&label=)
+![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF&label=) ![Jetpack Compose](https://img.shields.io/badge/JetpackCompose-3F51B5?style=for-the-badge&logo=jetpackcompose&logoColor=white) 
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByteAurora&repo=clipboarder-android)](https://github.com/clip-boarder/clipboarder-android)
 
