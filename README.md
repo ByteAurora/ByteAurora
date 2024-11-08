@@ -1,37 +1,33 @@
 # Hello, I'm YoungJin 👋
-I am currently majoring in Computer Science at Hoseo University and am interested in various fields of development. Starting from C, I've worked with several languages such as C#, C++, Java, and Python, and I am currently focusing on projects primarily using Kotlin.
+I graduated with a major in Computer Science from Hoseo University and have a strong interest in various fields of development. Starting from C, I've worked with several languages such as C++, Java, and Python, and I am currently focusing on projects primarily using Kotlin.
 
 <br>
 
 ## 👨‍💻 About Me
-- Majoring in Computer Science
+- Graduated with a major in Computer Science
 - Experiences with various languages, currently working on a project in Kotlin
 - Driven by the process of development, aspiring to create diverse services and systems across multiple fields
 
 <br>
 
 ## 🔭 Current Interests
-![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF&label=)  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=) 
+![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=) 
+![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF&label=) 
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 <br>
 
 ## 🏆 Activities
-- (주) 에드원 - [서울하수도과학관 방문용 키오스크 및 관리프로그램](https://github.com/Kiosk-Ticketing-System) 개발
+- 탄탄코어(진행중) - [주차관재 시스템 개발]
+- 에드원 - [서울하수도과학관 방문용 키오스크 및 관리프로그램](https://github.com/Kiosk-Ticketing-System) 개발
 - 2021 공개 SW 개발자 대회 - [UOS(Untact Order Service)](https://github.com/UOS2021) 프로젝트로 알티베이스 기업상 수상
 - 통신공사 영진 - 차량번호인식 테스트 프로그램 및 테스트 결과 관리 Windows 응용프로그램 개발 
 - (주) 가산 - 불법주정차 차량 영치용 안드로이드 앱 개발
 
 <br>
 
-## 🚀 Current Projects
-### 📋 Clipboarder
-Clipboarder is a service that helps synchronize various contents such as text and images across different devices, making it easier to copy and paste.
-
-![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF&label=) ![Jetpack Compose](https://img.shields.io/badge/JetpackCompose-3F51B5?style=for-the-badge&logo=jetpackcompose&logoColor=white) 
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByteAurora&repo=clipboarder-android)](https://github.com/clip-boarder/clipboarder-android)
-
-<br>
+## 🚀 Projects
 
 ### 🎮 CodeXP
 CodeXP is an Intellij IDE plugin to enhance the coding experience. (Released on [Jetbrains Marketplace](https://plugins.jetbrains.com/plugin/21896-codexp))
@@ -123,10 +119,8 @@ GBTW Reminder is a service that allows you to quickly check the update progress 
 **Frameworks**: 
 
 ![Qt](https://img.shields.io/static/v1?style=for-the-badge&message=Qt&color=222222&logo=Qt&logoColor=41CD52&label=)
-![MFC](https://img.shields.io/static/v1?style=for-the-badge&message=MFC&color=blue&label=)
 ![JavaFX](https://img.shields.io/static/v1?style=for-the-badge&message=JavaFX&color=red&label=)
 ![Android SDK](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=222222&logo=Android&logoColor=3DDC84&label=)
-![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
 ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=02569B&logo=React&logoColor=FFFFFF&label=)
 <br>
