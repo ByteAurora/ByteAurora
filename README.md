@@ -19,7 +19,8 @@ I graduated with a major in Computer Science from Hoseo University and have a st
 <br>
 
 ## 🏆 Activities
-- 탄탄코어(진행중) - [주차관제 시스템 개발]
+- 현대오토에버(재직중) - [내비플랫폼개발 담당]
+- 탄탄코어 - [주차관제 시스템 및 VDS 마이그레이션 담당]
 - 에드원 - [서울하수도과학관 방문용 키오스크 및 관리프로그램](https://github.com/Kiosk-Ticketing-System) 개발
 - 2021 공개 SW 개발자 대회 - [UOS(Untact Order Service)](https://github.com/UOS2021) 프로젝트로 알티베이스 기업상 수상
 - 통신공사 영진 - 차량번호인식 테스트 프로그램 및 테스트 결과 관리 Windows 응용프로그램 개발 
@@ -27,7 +28,7 @@ I graduated with a major in Computer Science from Hoseo University and have a st
 
 <br>
 
-## 🚀 Projects
+## 🚀 Deployed Project
 
 ### 🎮 CodeXP
 CodeXP is an Intellij IDE plugin to enhance the coding experience. (Released on [Jetbrains Marketplace](https://plugins.jetbrains.com/plugin/21896-codexp))
@@ -38,7 +39,7 @@ CodeXP is an Intellij IDE plugin to enhance the coding experience. (Released on 
 
 <br>
 
-## 🎓 Academic & 💡 Personal Projects
+## 🎓 Academic & 💡 Other Projects
 
 ### ✈️ PaeParo
 PaeParo is a android application to assist in easily organizing travel plans.
