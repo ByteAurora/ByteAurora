@@ -1,18 +1,18 @@
 # Hello, I'm YoungJin 👋
-I graduated with a major in Computer Science from Hoseo University and have a strong interest in various fields of development. Starting from C, I've worked with several languages such as C++, Java, and Python, and I am currently focusing on projects primarily using Kotlin.
+
+I graduated with a degree in Computer Science from Hoseo University and have a strong passion for software development. My journey started with C, and over the years, I've gained experience in multiple programming languages, including C++, Java, and Python. Currently, I am focusing on projects primarily using Kotlin.
 
 <br>
 
 ## 👨‍💻 About Me
-- Graduated with a major in Computer Science
-- Experiences with various languages, currently working on a project in Kotlin
-- Driven by the process of development, aspiring to create diverse services and systems across multiple fields
+- **Education:** Bachelor's degree in Computer Science, Hoseo University
+- **Current Position:** Working at Hyundai AutoEver
+- **Technical Skills:** Proficient in C, C++, Java, Python, and Kotlin
+- **Interests:** Enthusiastic about developing diverse services and systems across multiple fields
 
 <br>
 
 ## 🔭 Current Interests
-![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=) 
-![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=) 
 ![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF&label=) 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
