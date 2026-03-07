@@ -19,7 +19,7 @@ I graduated with a degree in Computer Science from Hoseo University and have a s
 <br>
 
 ## 🏆 Activities
-- 현대오토에버(재직중) - [내비플랫폼개발 담당]
+- 현대오토에버
 - 탄탄코어 - [주차관제 시스템 및 VDS 마이그레이션 담당]
 - 에드원 - [서울하수도과학관 방문용 키오스크 및 관리프로그램](https://github.com/Kiosk-Ticketing-System) 개발
 - 2021 공개 SW 개발자 대회 - [UOS(Untact Order Service)](https://github.com/UOS2021) 프로젝트로 알티베이스 기업상 수상
